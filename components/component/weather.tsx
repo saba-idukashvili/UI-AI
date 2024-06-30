@@ -62,7 +62,7 @@ export default function Weather() {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-background">
+    <div className="flex flex-col h-screen bg-background mb-32">
       <h1 className="text-4xl font-bold text-center my-4">Weather AI</h1>
       <div className="flex-1 overflow-auto md:p-4">
         <div className="space-y-4">
